@@ -1,0 +1,3 @@
+name: ${project.name}
+main: com.volmit.superspawners.SuperSpawners
+version: ${project.version}
